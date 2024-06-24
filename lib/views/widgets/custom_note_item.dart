@@ -15,7 +15,7 @@ class NoteItem extends StatelessWidget {
         children: [
           ListTile(
             title: const Text(
-              'FlutterTips',
+              'Flutter Tips',
               style: TextStyle(color: Colors.black, fontSize: 26),
             ),
             subtitle: Padding(
